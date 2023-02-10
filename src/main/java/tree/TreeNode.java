@@ -5,9 +5,9 @@ package tree;
  * @Date: 2021/4/12 6:11 下午
  */
 public class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
+    public int val;
+    public TreeNode left;
+    public TreeNode right;
 
     TreeNode() {
     }
