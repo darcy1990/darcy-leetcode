@@ -1,4 +1,4 @@
-package interview.basics;
+package interview;
 
 import java.util.concurrent.BlockingQueue;
 

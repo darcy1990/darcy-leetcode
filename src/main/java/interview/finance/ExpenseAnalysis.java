@@ -1,4 +1,4 @@
-package interview;
+package interview.finance;
 
 import com.google.common.collect.Lists;
 import com.google.common.collect.Sets;
